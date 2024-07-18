@@ -2,7 +2,7 @@
 
 We have migrated the Razoorpay .Net Framework projects to .Net 8.0 (Core) for our internal use. Hope it could help many of you. Note: This .Net 8 project has a nuget dependencay that required .Net Standard 2.0
 
-- [a FDSmax Local App .me Team](https://fdsmax.com)
+- [FDSmax Local App .me Team](https://fdsmax.com)
 
 # Razorpay .NET SDK
   
