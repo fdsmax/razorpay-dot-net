@@ -1,4 +1,4 @@
-## Update: Migrated the Razoorpay .Net Framework projects to .Net 8.0 Core.
+## Update: Migrated the Razorpay .Net Framework projects to .Net 8.0 Core.
 
 We have migrated the Razorpay .Net Framework projects to .Net 8.0 (Core) for our internal use. Hope it could help many of you. Note: This .Net 8 project has a nuget dependencay that requires .Net Standard 2.0 too along side DotNet 8.
 
